@@ -10,7 +10,7 @@ sub_8048B9C에 pthread_create에 인자인 start_routine 함수를 보면
 
 
 
-![nuclear](/rsrc/nuclear_0.jpg)
+![nuclear](./rsrc/nuclear_0.jpg)
 
 
 
