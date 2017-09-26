@@ -22,7 +22,7 @@ sub_8048B9C에 pthread_create에 인자인 start_routine 함수를 보면
 
 
 
-![nuclear](.\rsrc\nuclear_1.jpg)
+![nuclear](https://github.com/34t3rnull/HelloCTF/blob/master/Codegate_2014_nuclear/rsrc/nuclear_1.JPG)
 
 
 
@@ -30,7 +30,7 @@ launch를 하면 passcode를 입력해아하는데, 이 passcode는 THIS_IS_NOT_
 
 
 
-![nuclear](.\rsrc\nuclear_2.jpg)
+![nuclear](https://github.com/34t3rnull/HelloCTF/blob/master/Codegate_2014_nuclear/rsrc/nuclear_2.JPG)
 
 
 
@@ -42,7 +42,7 @@ leak 하기 전 스택의 상황을 살펴보니
 
 
 
-![nuclear](.\rsrc\nuclear_3.jpg)
+![nuclear](https://github.com/34t3rnull/HelloCTF/blob/master/Codegate_2014_nuclear/rsrc/nuclear_3.JPG)
 
 
 
@@ -52,7 +52,7 @@ leak 하기 전 스택의 상황을 살펴보니
 
 
 
-![nuclear](.\rsrc\nuclear_4.jpg)
+![nuclear](https://github.com/34t3rnull/HelloCTF/blob/master/Codegate_2014_nuclear/rsrc/nuclear_4.JPG)
 
  
 
@@ -84,7 +84,7 @@ print "[*] passcode : " + passcode
 
 
 
-![nuclear](.\rsrc\nuclear_5.jpg)
+![nuclear](https://github.com/34t3rnull/HelloCTF/blob/master/Codegate_2014_nuclear/rsrc/nuclear_5.JPG)
 
 
 
@@ -98,7 +98,7 @@ print "[*] passcode : " + passcode
 
 
 
-![nuclear](.\rsrc\nuclear_6.jpg)
+![nuclear](https://github.com/34t3rnull/HelloCTF/blob/master/Codegate_2014_nuclear/rsrc/nuclear_6.JPG)
 
 
 
@@ -110,7 +110,7 @@ NX만 걸려있다. 그러면 일단 쉘코드 문제는 아니니깐 ROP를 하
 
 
 
-![nuclear](.\rsrc\nuclear_7.jpg)
+![nuclear](https://github.com/34t3rnull/HelloCTF/blob/master/Codegate_2014_nuclear/rsrc/nuclear_7.JPG)
 
 
 
@@ -174,7 +174,7 @@ r.close()
 
 
 
-![nuclear](.\rsrc\nuclear_8.jpg)
+![nuclear](https://github.com/34t3rnull/HelloCTF/blob/master/Codegate_2014_nuclear/rsrc/nuclear_8.JPG)
 
 
 
