@@ -42,7 +42,7 @@ launch를 하면 passcode를 입력해아하는데, 이 passcode는 THIS_IS_NOT_
 
 leak 하기 전 스택의 상황을 살펴보니
 
-| ret | sfp | newthread | str | v4 | v5 | passcode | v7 | *stream|으로 이루어진 것을 알 수 있다.
+| result | newthread | str | v4 | v5 | passcode | v7 | *stream|으로 이루어진 것을 알 수 있다.
 
 그리고 위를 바탕으로 leak을 할 수 있는 함수를 찾았더니
 
