@@ -6,7 +6,7 @@ THIS_IS_NOT_KEY_JUST_PASSCODE 라는 파일을 만들어야합니다!
 
 # Codegate 2014 Nuclear 풀이
 
-문제 요약 : passcode를 leak한 다음 recv를 이용한 overflow를 요구하는 문제
+문제 요약 : passcode를 leak한 다음 recv를 이용한 Stack buffer overflow를 요구하는 문제
 
 
 
